@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and excellence in our industry-leading services.",
+        "title": "Unlock Your Potential with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and excellence in our industry-leading services.",
+        "title": "Unlock Your Potential with Cutting-Edge Solutions"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock Your Potential with Cutting-Edge Solutions",
+  "subtitle": "Experience the pinnacle of innovation and excellence in our industry-leading services."
+}
